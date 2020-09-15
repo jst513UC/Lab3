@@ -34,7 +34,9 @@ class Main
     if (countDown == 0)
     {
       System.out.println(countDown);
-      System.out.println("Blast Off!");
+      
     }
+    
+    System.out.println("Blast Off!");
   }
 }
